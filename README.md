@@ -1,7 +1,7 @@
 # Yu-Gi-Oh | Jo-ken-po Edition
 
 ## Descrição
-Bem-vindo ao Yu-Gi-Oh | Jo-ken-po Edition, um emocionante jogo de pedra, papel e tesoura que incorpora conceitos avançados de lógica de programação. Desafie sua mente enquanto mergulha em uma experiência única de jogo!
+Bem-vindo ao Yu-Gi-Oh | Jo-ken-po Edition, um jogo de pedra, papel e tesoura que incorpora conceitos avançados de lógica de programação. Desafie sua mente enquanto mergulha em uma experiência lúdica de jogo!
 
 ## Conceitos Abordados
 Explore e aprimore seus conhecimentos em programação com os seguintes conceitos aplicados no desenvolvimento deste jogo:
